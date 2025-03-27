@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **harshanasamarathunga2001@gmail.com**
 
-- ⚡ Fun fact **Lusifer**
+- ⚡ Fun fact **Lucifer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

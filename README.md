@@ -1,58 +1,24 @@
-<div align="center" style="background: linear-gradient(to right, #0e75b6, #2a9df4); padding: 30px; border-radius: 15px;">
-  <h1 align="center" style="color: white;">
-    <span align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=735&lines=👋Hi!+I'm+Viraj+Gunasinghe" alt="👋Hi! I'm Viraj Gunasinghe">
-    </span>
-  </h1>
-  <h3 style="color: Grey;">A passionate coding enthusiast, always eager to learn and develop across the full stack.</h3>
-</div>
+<h1 align="center">Hi 👋, I'm Harshana Malshan</h1>
+<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="center" style="margin-top: 15px;">
-  <img src="https://komarev.com/ghpvc/?username=virajwathsalag&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdhmsamarathunga&label=Profile%20views&color=0e75b6&style=flat" alt="sdhmsamarathunga" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdhmsamarathunga" alt="sdhmsamarathunga" /></a> </p>
+
+- 🌱 I’m currently learning **Bsc(hons) Software Engineering**
+
+- 📫 How to reach me **harshanasamarathunga2001@gmail.com**
+
+- ⚡ Fun fact **Lusifer**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/harshana malshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harshana malshan" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-### 📊 GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdhmsamarathunga&show_icons=true&locale=en&layout=compact" alt="sdhmsamarathunga" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virajwathsalag&theme=radical" alt="GitHub streak stats" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
-  <img src="https://github-readme-stats.vercel.app/api?username=virajwathsalag&show_icons=true&locale=en&theme=radical" alt="GitHub stats" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajwathsalag&layout=compact&theme=radical" alt="Most Used Languages" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
-</p>
-
----
-
-### 🌐 Connect with Me:
-
-<p align="center">
-  <a href="https://dev.to/virajwathsalag" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" style="border-radius: 10px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" />
-  </a>
-  <a href="https://www.linkedin.com/in/virajwathsalag/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="border-radius: 10px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" />
-  </a>
-  <a href="https://instagram.com/virajwathsalag" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" style="border-radius: 10px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" />
-  </a>
-  
-  <a href="https://youtube.com/@virajwathsalag" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" style="border-radius: 10px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,html,css,vscode,github,arduino,mysql,javascript,git,java,python,bootstrap" alt="Skills" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
-</p>
-
----
-
-### 🔥 Highlights:
-
-- 🌱 Constantly learning and improving.
-- 💻 Skilled in full-stack development, focusing on modern web and desktop applications.
-- 🚀 Passionate about creating optimized and user-friendly software.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sdhmsamarathunga&show_icons=true&locale=en" alt="sdhmsamarathunga" /></p>

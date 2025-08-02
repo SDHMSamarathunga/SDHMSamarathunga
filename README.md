@@ -22,6 +22,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdhmsamarathunga&theme=radical" alt="GitHub streak stats" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
   <img src="https://github-readme-stats.vercel.app/api?username=sdhmsamarathunga&show_icons=true&locale=en&theme=radical" alt="GitHub stats" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdhmsamarathunga&layout=compact&theme=radical" alt="Most Used Languages" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sdhmsamarathunga&theme=radical" alt="GitHub Activity Graph" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
 </p>
 
 🌐 Connect with Me:

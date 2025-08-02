@@ -19,6 +19,8 @@
 <h3>🌱 About Me:</h3>
 <ul>
 <li>🎓 I’m currently learning <b>BSc (Hons) Software Engineering</b></li>
+<li>👯 I’m looking to collaborate on web projects.</li>
+<li>💬 Ask me about MERN stack development!</li>
 <li>📫 How to reach me <b>harshanasamarathunga2001@gmail.com</b></li>
 <li>⚡ Fun fact: <b>Lusifer</b></li>
 </ul>
